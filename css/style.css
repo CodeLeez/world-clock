@@ -1,12 +1,12 @@
 body {
-  background-color: rgb(219, 230, 219);
+  background-color: rgb(237, 248, 237);
   font-family: sans-serif;
 }
 
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background-color: white;
+  background-color: rgba(222, 237, 161, 0.2);
   padding: 30px;
 
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
